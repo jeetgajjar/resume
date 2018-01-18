@@ -35,10 +35,6 @@ function viewModel() {
                             "Created and architected entire project (~10,000 loc) including front-end and database design",
                             "Used by BMW IT Associates across North America to streamline the documentation process",
                         ]
-                        "JIRA & Confluence", [
-                            "Administrated across North America",
-                            "Trained Associates on best practices in person and virtually",
-                        ]
                     ]
                 },
                 {
