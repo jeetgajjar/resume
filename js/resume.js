@@ -104,7 +104,7 @@ function viewModel() {
                     bullets: [
                         "Senior studying Computer Science",
                         "Member of Computer Science Student Advisory Board", [
-                            "Acted as intermediary between faculty and students"
+                            "Acted as intermediary between faculty and students",
                             "Active in selecting future faculty members",
                             "Assist with CS events, such as open house"
                         ],
