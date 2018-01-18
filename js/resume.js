@@ -224,7 +224,7 @@ function viewModel() {
                         "Organized weekly tech-talks by companies and students",
                         "Created partnership with General Electric's Cyber Security Department ", [
                             "Exposed Red/Blue team to students"
-                          ]
+                          ],
                         "Aided in the development of the Cyber Security Lab sandbox environment"
                     ]
                 },
