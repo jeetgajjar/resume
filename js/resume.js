@@ -32,7 +32,7 @@ function viewModel() {
                     ],
                     bullets: [
                         "Created an automated documentation tool using JIRA and Confluence", [
-                            "Created and architected entire project (~10,000 loc) including front-end and database design",
+                            "Created and architected entire project including front-end and database design",
                             "Used by BMW IT Associates across North America to streamline the documentation process",
                         ],
                         "JIRA & Confluence", [
@@ -48,7 +48,7 @@ function viewModel() {
                         "Oct 2016 - Dec 2016"
                     ],
                     bullets: [
-                        "Researched possible avenues for ESRI scripting"
+                        "Researched possible avenues for Geo-Information Systems scripting"
                     ]
                 },
                 {
@@ -109,14 +109,14 @@ function viewModel() {
                             "Assist with CS events, such as open house"
                         ],
                     ],
-                },
-                {
-                    header: [
-                        "Yorktown, VA",
-                        "York High school",
-                        "2010 - 2014"
-                    ]
                 }
+                // {
+                //     header: [
+                //         "Yorktown, VA",
+                //         "York High school",
+                //         "2010 - 2014"
+                //     ]
+                // }
             ]
         },
 
@@ -190,10 +190,10 @@ function viewModel() {
                     ],
                     bullets: [
                         "Operating System Simulator built in Java", [
-                            "Implements a multi-level priority queue",
+                            "Implements an IOScheduler",
                             "Simulates virtual memory/swapping",
-                            "Implementation of 'cat' for JavaFX based CLI",
-                            "Features adjustable simulation speed"
+                            "Implements priority queue"
+
                         ]
                     ]
                 },
