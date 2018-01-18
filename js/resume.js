@@ -211,7 +211,7 @@ function viewModel() {
                         "Director of Food Logistics",
                         "Vendor Management",
                         "People Management",
-                        "Sought out and trained talented underclassmen to maintain RamHacks"
+                        "Sought out and trained talented underclassmen to maintain RamHacks",
                         "Assisted in participants' technical questions",
                     ]
                 },
