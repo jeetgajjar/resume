@@ -19,8 +19,8 @@ function viewModel() {
                   ],
                   bullets: [
                       "Oversee North America University Hackathons", [
-                          "Supported organizers to run successful events",
-                          "Experienced in various emergency procedures"
+                          "Support organizers to run successful events",
+                          "Emergency procedure experience"
                       ]
                   ]
               },
@@ -36,8 +36,8 @@ function viewModel() {
                             "Used by BMW IT Associates across North America to streamline the documentation process",
                         ]
                         "JIRA & Confluence", [
-                          "Administrated across North America",
-                          "Trained Associates on best practices in person and virtually",
+                            "Administrated across North America",
+                            "Trained Associates on best practices in person and virtually",
                         ]
                     ]
                 },

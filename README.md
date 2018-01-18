@@ -1,7 +1,7 @@
 # Resume
-I got sick of fixing the formatting on my resume every time I needed to edit a section.
+This Resume has been cloned from [Quark W.](https://github.com/quarkw/resume/).
 
-You can see the result [here](http://quarkw.github.io/resume/).
+You can see the result [here](http://kakorrhaphio.github.io/resume/).
 
 This resume is based on this [wonderful advice from LifeClever](http://www.lifeclever.com/give-your-resume-a-face-lift/).
 
@@ -44,19 +44,8 @@ Some notes:
         "Richmond, VA",
         "Virginia Commonwealth University",
         "Fall 2014 - May 2018"
-    ],
-    bullets: [
-        "Junior studying Computer Science",
-        "In-major GPA of 4.0",
-        "Member of Computer Science Student Advisory Board", [
-            "Help the department choose new faculty members",
-            "Help out with events, such as local hack day, for prospective and current computer science students",
-            "Run department wide slack to provide announcements and hub for students to talk"
-        ],
-        "Upper Level Courses Taken:"
-    ],
-    list: ["Differential Equations", "Multivariable Calculus", "Linear Algebra", "Theory of Computation", "Operating Systems", "Software Engineering", "Algorithms w/ Advanced Data Structures", "Interactive Virtual Worlds", "Databases", "Programming Languages"]
-}
+    ]
+  }
 ```
 
 If you want to hide a subsection for print, change `noPrint` to true.
@@ -66,7 +55,7 @@ Decorators can be applied to subsections to link out to webpages, and provide so
 ```js
 decorators: {
   icon: "github",
-  url: "https://github.com/quarkw/resume"
+  url: "https://github.com/kakorrhaphio/resume"
 }
 ```
 
