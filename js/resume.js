@@ -120,36 +120,26 @@ function viewModel() {
             ]
         },
         {
-    noPrint: true
-    header: [
-        "Richmond, VA",
-        "Virginia Commonwealth University",
-        "Fall 2014 - May 2018"
-    ],
-    bullets: [
-        "Junior studying Computer Science",
-        "In-major GPA of 4.0",
-        "Member of Computer Science Student Advisory Board", [
-            "Help the department choose new faculty members",
-            "Help out with events, such as local hack day, for prospective and current computer science students",
-            "Run department wide slack to provide announcements and hub for students to talk"
-        ],
-        "Upper Level Courses Taken:"
-    ],
-    list: ["Differential Equations", "Multivariable Calculus", "Linear Algebra", "Theory of Computation", "Operating Systems", "Software Engineering", "Algorithms w/ Advanced Data Structures", "Interactive Virtual Worlds", "Databases", "Programming Languages"]
-},
-        // {
-        //     header: ["Skills"],
-        //     bullets: [
-        //       "Languages:",
-        //       list: ["Java", "Python", "JavaScript" ]
-        //       "Other:"
-        //       list: ["Maven", "Atlassian/API", "Git", "BeautifulSoup", "Selenium", "Gephi"]
-        //     ],
-        //
-        //     //Atlassian/API, Git Version Control, BeautifulSoup, Selenium, Chromedriver, REST, Terminal,
-        //     //Hippo CMS, Django, D3js, LaTex, Gephi,
-        // },
+            header: ["Skills"],
+            // bullets: [
+            //   "Languages:",
+            //   list: ["Java", "Python", "JavaScript" ]
+            //   "Other:"
+            //   list: ["Maven", "Atlassian/API", "Git", "BeautifulSoup", "Selenium", "Gephi"]
+            // ],
+            subsections: [
+                {
+                    header: [
+                        "Languages"
+                    ],
+                    bullets: [
+                        list: ["Java", "Python", "JavaScript" ]
+                    ]
+                },
+
+            //Atlassian/API, Git Version Control, BeautifulSoup, Selenium, Chromedriver, REST, Terminal,
+            //Hippo CMS, Django, D3js, LaTex, Gephi,
+        },
         {
             header: ["Prominent Projects"],
             subsections: [
