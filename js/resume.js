@@ -65,16 +65,16 @@ function viewModel() {
                         // "Shadowed client calls as Business Analyst"
                     ]
                 },
-                {
-                    header: [
-                        "Richmond, VA",
-                        "VCU CS Department",
-                        "May 2016 - June 2016"
-                    ],
-                    bullets: [
-                        "Completed an existing scheduling website using JavaScript"
-                    ]
-                },
+                // {
+                //     header: [
+                //         "Richmond, VA",
+                //         "VCU CS Department",
+                //         "May 2016 - June 2016"
+                //     ],
+                //     bullets: [
+                //         "Completed an existing scheduling website using JavaScript"
+                //     ]
+                // },
                 {
                     header: [
                         "Richmond, VA",
@@ -177,24 +177,24 @@ function viewModel() {
                 //         ]
                 //     ]
                 // },
-                {
-                    decorators: {
-                        icon: "github",
-                        url: "https://github.com/kakorrhaphio/OperatingSystem"
-                    },
-                    header: [
-                        "Operating System Simulator",
-                        "Fall 2016"
-                    ],
-                    bullets: [
-                        "Operating System Simulator built in Java", [
-                            "Implements an IOScheduler",
-                            "Simulates virtual memory/swapping",
-                            "Implements priority queue"
-
-                        ]
-                    ]
-                },
+                // {
+                //     decorators: {
+                //         icon: "github",
+                //         url: "https://github.com/kakorrhaphio/OperatingSystem"
+                //     },
+                //     header: [
+                //         "Operating System Simulator",
+                //         "Fall 2016"
+                //     ],
+                //     bullets: [
+                //         "Operating System Simulator built in Java", [
+                //             "Implements an IOScheduler",
+                //             "Simulates virtual memory/swapping",
+                //             "Implements priority queue"
+                //
+                //         ]
+                //     ]
+                // },
             ]
         },
         {
