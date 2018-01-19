@@ -108,7 +108,7 @@ function viewModel() {
                     //         "Active in selecting future faculty members",
                     //         "Assist with CS events, such as open house"
                     //     ],
-                    ]
+                    // ]
                 }
                 // {
                 //     header: [
