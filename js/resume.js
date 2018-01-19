@@ -121,15 +121,18 @@ function viewModel() {
         },
         {
             header: ["Skills"],
+            subsections: [
+
             bullets: [
               "Languages:",
               list: ["Java", "Python", "JavaScript" ]
               "Other:"
               list: ["Maven", "Atlassian/API", "Git", "BeautifulSoup", "Selenium", "Gephi"]
             ],
-            
+
             //Atlassian/API, Git Version Control, BeautifulSoup, Selenium, Chromedriver, REST, Terminal,
             //Hippo CMS, Django, D3js, LaTex, Gephi,
+            ]
         },
         {
             header: ["Prominent Projects"],
