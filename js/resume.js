@@ -36,8 +36,8 @@ function viewModel() {
                             "Used by BMW IT Associates across North America to streamline the documentation process",
                         ],
                         "JIRA & Confluence", [
-                          "Administrated across North America",
-                          "Trained Associates on best practices in person and virtually",
+                          "Administrated and trained associates across North America"
+                          // "Trained Associates on best practices in person and virtually",
                         ]
                     ]
                 },
@@ -60,9 +60,9 @@ function viewModel() {
                     bullets: [
                         "Integrated Hippo CMS to newly designed internal site",
                         "Integrated Harvest Time Logging with JIRA",
-                        "Used Greenscreen, a digital signage software, to demultiplex multiple Chromecast device channels",
-                        "Documented client functional requirements as Business Analyst",
-                        "Shadowed client calls as Business Analyst"
+                        "Used Greenscreen, a digital signage software, to demultiplex multiple Chromecast device channels"
+                        // "Documented client functional requirements as Business Analyst",
+                        // "Shadowed client calls as Business Analyst"
                     ]
                 },
                 {
@@ -87,7 +87,7 @@ function viewModel() {
                           "Designing and tested network robustness using Django Framework",
                           "Creating a front end and back end correlated disease database",
                           "Relating diseases to visualize the evolution of miRNA",
-                          "Peer Reviewed journal papers"
+                          // "Peer Reviewed journal papers"
                         ]
                     ]
                 }
@@ -101,14 +101,14 @@ function viewModel() {
                         "Virginia Commonwealth University",
                         "Fall 2014 - May 2018"
                     ],
-                    bullets: [
-                        "Senior studying Computer Science",
-                        "Member of Computer Science Student Advisory Board", [
-                            "Acted as intermediary between faculty and students",
-                            "Active in selecting future faculty members",
-                            "Assist with CS events, such as open house"
-                        ],
-                    ],
+                    // bullets: [
+                    //     "Senior studying Computer Science"
+                    //     "Member of Computer Science Student Advisory Board", [
+                    //         "Acted as intermediary between faculty and students",
+                    //         "Active in selecting future faculty members",
+                    //         "Assist with CS events, such as open house"
+                    //     ],
+                    ]
                 }
                 // {
                 //     header: [
@@ -134,9 +134,7 @@ function viewModel() {
                     ],
                     bullets: [
                         "IntelliJ Plugin which queries Stack Overflow", [
-                          "Integrated search function to Stack Overflow",
-                          "Suggested searching function",
-                          "Fully automated search functionality executed via hotkey"
+                          "Mutli-faceted search capabilities with productivity in mind"
                         ],
                         "First place winner for VCU Senior Design Expo in Computer Science 2017"
                     ]
@@ -152,9 +150,9 @@ function viewModel() {
                     ],
                     bullets: [
                         "Top websites from Alexa Page Rank analysis", [
-                          "Created a network of pixel-pixel interractions",
-                          "Designed compression/decompression algorithm for data management",
-                          "Observed power-law from acrued data"
+                          "Created a network of pixel-pixel interractions with large generated dataset"
+                          // "Designed compression/decompression algorithm for data management",
+                          // "Observed power-law from acrued data"
                         ]
                     ]
                 },
@@ -163,22 +161,22 @@ function viewModel() {
                 //     bullets: [
                 //     ]
                 // },
-                {
-                    noPrint: true,
-                    decorators: {
-                        icon: "github",
-                        url: "https://github.com/kakorrhaphio/khe16-Penguin-harassment"
-                    },
-                    header: [
-                        "Hack HarRESTment",
-                        "September 2014"
-                    ],
-                    bullets: [
-                        "Created a Chrome extension with text filtering options", [
-
-                        ]
-                    ]
-                },
+                // {
+                //     noPrint: true,
+                //     decorators: {
+                //         icon: "github",
+                //         url: "https://github.com/kakorrhaphio/khe16-Penguin-harassment"
+                //     },
+                //     header: [
+                //         "Hack HarRESTment",
+                //         "September 2014"
+                //     ],
+                //     bullets: [
+                //         "Created a Chrome extension with text filtering options", [
+                //
+                //         ]
+                //     ]
+                // },
                 {
                     decorators: {
                         icon: "github",
@@ -208,11 +206,11 @@ function viewModel() {
                         "Spring 2016 - Dec 2017"
                     ],
                     bullets: [
-                        "Director of Food Logistics",
-                        "Vendor Management",
-                        "People Management",
-                        "Sought out and trained talented underclassmen to maintain RamHacks",
-                        "Assisted in participants' technical questions",
+                        "Maintained successful event 2 years with 250 attendees"
+                        // "Director of Food Logistics",
+                        // "Vendor Management",
+                        // "Sought out and trained talented underclassmen to maintain RamHacks",
+                        // "Assisted in participants' technical questions",
                     ]
                 },
                 {
@@ -222,9 +220,9 @@ function viewModel() {
                     ],
                     bullets: [
                         "Organized weekly tech-talks by companies and students",
-                        "Created partnership with General Electric's Cyber Security Department ", [
-                            "Exposed Red/Blue team to students"
-                          ],
+                        // "Created partnership with General Electric's Cyber Security Department ", [
+                        //     "Exposed Red/Blue team to students"
+                        //   ],
                         "Aided in the development of the Cyber Security Lab sandbox environment"
                     ]
                 },
