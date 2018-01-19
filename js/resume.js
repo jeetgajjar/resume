@@ -135,7 +135,7 @@ function viewModel() {
                     bullets: [
                         "Java, Python, JavaScript"
                     ]
-                },
+                }
 
             //Atlassian/API, Git Version Control, BeautifulSoup, Selenium, Chromedriver, REST, Terminal,
             //Hippo CMS, Django, D3js, LaTex, Gephi,
