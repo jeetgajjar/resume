@@ -133,7 +133,7 @@ function viewModel() {
                         "Languages"
                     ],
                     bullets: [
-                        list: ["Java", "Python", "JavaScript" ]
+                        "Java, Python, JavaScript"
                     ]
                 },
 
