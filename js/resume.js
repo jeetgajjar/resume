@@ -99,7 +99,7 @@ function viewModel() {
                     header: [
                         "Richmond, VA",
                         "Virginia Commonwealth University",
-                        "Fall 2014 - May 2018"
+                        "May 2018"
                     ],
                     bullets: [
                         "Senior, Bachelors of Science in Computer Science"
