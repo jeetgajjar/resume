@@ -102,7 +102,7 @@ function viewModel() {
                         "Fall 2014 - May 2018"
                     ],
                     bullets: [
-                        "Senior studying Computer Science"
+                        "Senior, Bachelors of Science in Computer Science"
                         // "Member of Computer Science Student Advisory Board", [
                         //     "Acted as intermediary between faculty and students",
                         //     "Active in selecting future faculty members",
