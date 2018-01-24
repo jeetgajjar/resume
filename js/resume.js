@@ -122,12 +122,14 @@ function viewModel() {
         {
           header: ["Awards"],
           subsections: [
-            header: [
+            {
+              header: [
               "StackInTheFlow"
             ],
             bullets: [
               "First place, Excellence in Design, VCU Senior Capstone Design Expo 2017"
             ]
+          }
           ]
         },
         {
