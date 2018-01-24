@@ -18,9 +18,9 @@ function viewModel() {
                       "Aug 2017 - Present"
                   ],
                   bullets: [
-                      "Oversee North America University Hackathons", [
+                      "Overseer of North American University Hackathons", [
                           "Support organizers to run successful events",
-                          "Emergency procedure experience"
+                          "Point of contact for emergency health situations"
                       ]
                   ]
               },
@@ -41,16 +41,16 @@ function viewModel() {
                         ]
                     ]
                 },
-                {
-                    header: [
-                        "Richmond, VA",
-                        "Timmons Group (Intern)",
-                        "Oct 2016 - Dec 2016"
-                    ],
-                    bullets: [
-                        "Researched possible avenues for Geo-Information Systems scripting"
-                    ]
-                },
+                // {
+                //     header: [
+                //         "Richmond, VA",
+                //         "Timmons Group (Intern)",
+                //         "Oct 2016 - Dec 2016"
+                //     ],
+                //     bullets: [
+                //         "Wrote Python and with ESRI to determine "
+                //     ]
+                // },
                 {
                     header: [
                         "Richmond, VA",
@@ -120,6 +120,17 @@ function viewModel() {
             ]
         },
         {
+          header: ["Awards"],
+          subsections: [
+            header: [
+              "StackInTheFlow"
+            ],
+            bullets: [
+              "First place, Excellence in Design, VCU Senior Capstone Design Expo 2017"
+            ]
+          ]
+        },
+        {
             header: ["Skills"],
             // bullets: [
             //   "Languages:",
@@ -135,11 +146,18 @@ function viewModel() {
                     bullets: [
                         "Java, Python, JavaScript"
                     ]
+                },
+                {
+                  header: [
+                    "Software"
+                  ],
+                  bullets: [
+                    "Atlassian/API, Git, ESRI, ArcPy, BeautifulSoup, Selenium, Chromedriver, REST, Hippo CMS, Django, LaTeX, Gephi"
+                  ]
                 }
               ]
 
-            //Atlassian/API, Git Version Control, BeautifulSoup, Selenium, Chromedriver, REST, Terminal,
-            //Hippo CMS, Django, D3js, LaTex, Gephi,
+
         },
         {
             header: ["Prominent Projects"],
@@ -154,10 +172,10 @@ function viewModel() {
                         "Sept 2016 - May 2017"
                     ],
                     bullets: [
-                        "IntelliJ Plugin which queries Stack Overflow", [
-                          "Mutli-faceted search capabilities with productivity in mind"
-                        ],
-                        "First place winner for VCU Senior Design Expo in Computer Science 2017"
+                        "An IntelliJ Plugin that uses NLP and StackOverflow to provide coding reccomendations",
+                        // [
+                        //   "Mutli-faceted search capabilities with productivity in mind" //TODO: Review commits and see how I contributed.
+                        // ],
                     ]
                 },
                 {
@@ -170,7 +188,7 @@ function viewModel() {
                         "Sept 2016 - Dec 2016"
                     ],
                     bullets: [
-                        "Top websites from Alexa Page Rank analysis", [
+                        "Analyzed top websites from Alexa Page Rank analysis", [
                           "Created a network of pixel-pixel interractions with large generated dataset"
                           // "Designed compression/decompression algorithm for data management",
                           // "Observed power-law from acrued data"
@@ -227,8 +245,8 @@ function viewModel() {
                         "Spring 2016 - Dec 2017"
                     ],
                     bullets: [
-                        "Maintained successful event 2 years with 250 attendees"
-                        // "Director of Food Logistics",
+                        "Co-organized RamHacks 2 years with 500 total attendees",
+                        "Lead Vendor Manager for all meals and snacks"
                         // "Vendor Management",
                         // "Sought out and trained talented underclassmen to maintain RamHacks",
                         // "Assisted in participants' technical questions",
