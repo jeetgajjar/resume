@@ -6,7 +6,7 @@ function viewModel() {
     this.phone = "";
     this.email = "gajjarjm@vcu.edu";
     this.github = "github.com/kakorrhaphio";
-    this.website = "kakorrhaphio.github.io/resume";
+    // this.website = "kakorrhaphio.github.io/resume";
 
     this.sections = [{
             header: ["Employment"],
