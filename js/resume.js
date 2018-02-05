@@ -4,7 +4,7 @@ function viewModel() {
     this.fullName = this.firstName + " " + this.lastName;
 
     this.phone = "";
-    this.email = "gajjarjm@vcu.edu | j211668@gmail.com";
+    this.email = "gajjarjm@vcu.edu";
     this.github = "github.com/kakorrhaphio";
     this.website = "kakorrhaphio.github.io/resume";
 
@@ -18,7 +18,7 @@ function viewModel() {
                       "Aug 2017 - Present"
                   ],
                   bullets: [
-                      "Overseer of North American University Hackathons", [
+                      "Overseer of over 5 North American University Hackathons", [
                           "Support organizers to run successful events",
                           "Point of contact for emergency health situations"
                       ]
