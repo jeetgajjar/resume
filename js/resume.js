@@ -13,21 +13,21 @@ function viewModel() {
             subsections: [
               {
                   header: [
-                      "New York, New York (Remote)",
-                      "Major League Hacking",
+                    "",//first one is for location
+                      "Major League Hacking (Hackathon Evangelist)",
                       "Aug 2017 - Present"
                   ],
                   bullets: [
-                      "Overseer of over 5 North American University Hackathons", [
-                          "Support organizers to run successful events",
-                          "Point of contact for emergency health situations"
-                      ]
+                      "Regularly attend student computer programming competitions as official representative of national organizing body, Major League Hacking (MLH)"
+                          "Act as primary primary point of contact for university, student & faculty volunteers, and event attendees while on-site",
+                          "Regular public speaking experience in front of 500+ people.  Presentations involve communicating technical topics to audience of varying skill levels",
+                          "each developers how to solve a wide variety of programming challenges and actively help them debug problems across a variety of languages & platforms"
                   ]
               },
                 {
                     header: [
-                        "Greenville, SC",
-                        "BMW Manufacturing (Co-op)",
+                      "",
+                        "BMW Manufacturing (Software Development Co-op)",
                         "Jan 2017 - Dec 2017"
                     ],
                     bullets: [
@@ -53,8 +53,8 @@ function viewModel() {
                 // },
                 {
                     header: [
-                        "Richmond, VA",
-                        "authentic. (Intern)",
+                      "",
+                        "authentic. (Software Engineering Intern)",
                         "May 2016 - Aug 2016"
                     ],
                     bullets: [
@@ -77,9 +77,9 @@ function viewModel() {
                 // },
                 {
                     header: [
-                        "Richmond, VA",
-                        "VCU Biological Network Lab",
-                        "Sept 2015 - Dec 2016"
+                      "",
+                        "VCU Biological Network Lab (Research Assistant)",
+                        "Sep 2015 - Dec 2016"
                     ],
                     bullets: [
                         "Worked with PhD Candidates in:", [
@@ -97,18 +97,19 @@ function viewModel() {
             header: ["Education"],
             subsections: [{
                     header: [
-                        "Richmond, VA",
-                        "Virginia Commonwealth University",
-                        "May 2018"
-                    ],
-                    bullets: [
+                      "",
+                        "Virginia Commonwealth University(B.S Computer Science)",
+                        "Aug 2014 - May 2018"
+                    ]
+                    // ,
+                    // bullets: [
                         "Senior, Bachelors of Science in Computer Science"
                         // "Member of Computer Science Student Advisory Board", [
                         //     "Acted as intermediary between faculty and students",
                         //     "Active in selecting future faculty members",
                         //     "Assist with CS events, such as open house"
                         // ],
-                    ]
+                    // ]
                 }
                 // {
                 //     header: [
@@ -120,49 +121,7 @@ function viewModel() {
             ]
         },
         {
-          header: ["Awards"],
-          subsections: [
-            {
-              header: [
-              "StackInTheFlow"
-            ],
-            bullets: [
-              "First place, Excellence in Design, VCU Senior Capstone Design Expo 2017"
-            ]
-          }
-          ]
-        },
-        {
-            header: ["Skills"],
-            // bullets: [
-            //   "Languages:",
-            //   list: ["Java", "Python", "JavaScript" ]
-            //   "Other:"
-            //   list: ["Maven", "Atlassian/API", "Git", "BeautifulSoup", "Selenium", "Gephi"]
-            // ],
-            subsections: [
-                {
-                    header: [
-                        "Languages"
-                    ],
-                    bullets: [
-                        "Java, Python, JavaScript"
-                    ]
-                },
-                {
-                  header: [
-                    "Software"
-                  ],
-                  bullets: [
-                    "Atlassian/API, Git, ESRI, ArcPy, BeautifulSoup, Selenium, Chromedriver, REST, Hippo CMS, Django, LaTeX, Gephi"
-                  ]
-                }
-              ]
-
-
-        },
-        {
-            header: ["Prominent Projects"],
+            header: ["Noteworthy Projects"],
             subsections: [
                 {
                     decorators: {
@@ -171,10 +130,11 @@ function viewModel() {
                     },
                     header: [
                         "StackInTheFlow",
-                        "Sept 2016 - May 2017"
+                        "Sep 2016 - May 2017"
                     ],
                     bullets: [
                         "An IntelliJ Plugin that uses NLP and StackOverflow to provide coding reccomendations",
+                        "First place, Excellence in Design, VCU Senior Capstone Design Expo 2017",
                         // [
                         //   "Mutli-faceted search capabilities with productivity in mind" //TODO: Review commits and see how I contributed.
                         // ],
@@ -187,11 +147,11 @@ function viewModel() {
                     },
                     header: [
                         "Penguin",
-                        "Sept 2016 - Dec 2016"
+                        "Sep 2016 - Dec 2016"
                     ],
                     bullets: [
                         "Analyzed top websites from Alexa Page Rank analysis", [
-                          "Created a network of pixel-pixel interractions with large generated dataset"
+                          "Created a network of pixel-pixel interactions with large generated dataset"
                           // "Designed compression/decompression algorithm for data management",
                           // "Observed power-law from acrued data"
                         ]
@@ -244,7 +204,7 @@ function viewModel() {
             subsections: [{
                     header: [
                         "RamHacks Organizer",
-                        "Spring 2016 - Dec 2017"
+                        "Jan 2016 - Dec 2017"
                     ],
                     bullets: [
                         "Co-organized RamHacks 2 years with 500 total attendees",
@@ -256,8 +216,8 @@ function viewModel() {
                 },
                 {
                     header: [
-                        "(Cofounder) Cyber Security Club at VCU",
-                        "Aug 2015 - December 2016"
+                        "Cyber Security Club at VCU (Co-Founder)",
+                        "Aug 2015 - Dec 2016"
                     ],
                     bullets: [
                         "Organized weekly tech-talks by companies and students",
@@ -268,6 +228,35 @@ function viewModel() {
                     ]
                 },
             ]
+        },
+        {
+            header: ["Skills"],
+            // bullets: [
+            //   "Languages:",
+            //   list: ["Java", "Python", "JavaScript" ]
+            //   "Other:"
+            //   list: ["Maven", "Atlassian/API", "Git", "BeautifulSoup", "Selenium", "Gephi"]
+            // ],
+            subsections: [
+                {
+                    header: [
+                        "Languages"
+                    ],
+                    bullets: [
+                        "Java, Python, JavaScript"
+                    ]
+                },
+                {
+                  header: [
+                    "Software"
+                  ],
+                  bullets: [
+                    "Atlassian/API, Git, ESRI, ArcPy, BeautifulSoup, Selenium, Chromedriver, REST, Hippo CMS, Django, LaTeX, Gephi"
+                  ]
+                }
+              ]
+
+
         }
     ]
 };
