@@ -99,8 +99,11 @@ function viewModel() {
             header: ["Education"],
             subsections: [{
                     header: [
-                        "Virginia Commonwealth University (B.S Comp Sci)",
+                        "Virginia Commonwealth University",
                         "Aug 2014 - May 2018"
+                    ],
+                    bullets: [
+                      "B.S Computer Science"
                     ]
                 }
             ]
