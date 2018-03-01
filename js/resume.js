@@ -21,7 +21,7 @@ function viewModel() {
                       "Regularly attend student computer programming competitions as official representative of national organizing body, Major League Hacking (MLH)",
                           "Act as primary primary point of contact for university, student & faculty volunteers, and event attendees while on-site",
                           "Regular public speaking experience in front of 500+ people.  Presentations involve communicating technical topics to audience of varying skill levels",
-                          "each developers how to solve a wide variety of programming challenges and actively help them debug problems across a variety of languages & platforms"
+                          "Teach developers how to solve a wide variety of programming challenges and actively help them debug problems across a variety of languages & platforms"
                   ]
               },
                 {
@@ -97,7 +97,6 @@ function viewModel() {
             header: ["Education"],
             subsections: [{
                     header: [
-                      "",
                         "Virginia Commonwealth University (B.S Computer Science)",
                         "Aug 2014 - May 2018"
                     ]
