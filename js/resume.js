@@ -20,14 +20,16 @@ function viewModel() {
                   bullets: [
                       "Regularly attend student computer programming competitions as official representative of national organizing body, Major League Hacking (MLH)",
                           "Act as primary primary point of contact for university, student & faculty volunteers, and event attendees while on-site",
-                          "Regular public speaking experience in front of 500+ people.  Presentations involve communicating technical topics to audience of varying skill levels",
+                          "Regular public speaking experience in front of 500+ people", [
+                           "Presentations involve communicating technical topics to audience of varying skill levels"
+                         ]
                           "Teach developers how to solve a wide variety of programming challenges and actively help them debug problems across a variety of languages & platforms"
                   ]
               },
                 {
                     header: [
                       "",
-                        "BMW Manufacturing (Software Development Co-op)",
+                        "BMW Manufacturing (Software Developer Co-op)",
                         "Jan 2017 - Dec 2017"
                     ],
                     bullets: [
@@ -78,7 +80,7 @@ function viewModel() {
                 {
                     header: [
                       "",
-                        "VCU Biological Network Lab (Research Assistant)",
+                        "VCU Biological Network Lab (Research Asst.)",
                         "Sep 2015 - Dec 2016"
                     ],
                     bullets: [
