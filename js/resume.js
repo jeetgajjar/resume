@@ -22,7 +22,7 @@ function viewModel() {
                           "Act as primary primary point of contact for university, student & faculty volunteers, and event attendees while on-site",
                           "Regular public speaking experience in front of 500+ people", [
                            "Presentations involve communicating technical topics to audience of varying skill levels"
-                         ]
+                         ],
                           "Teach developers how to solve a wide variety of programming challenges and actively help them debug problems across a variety of languages & platforms"
                   ]
               },
