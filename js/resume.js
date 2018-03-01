@@ -103,7 +103,7 @@ function viewModel() {
                         "",
                         "Aug 2014 - May 2018"
                     ],
-                      "B.S Computer Science"
+                      "B.S Computer Science",
                 }
             ]
         },
