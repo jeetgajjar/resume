@@ -100,11 +100,10 @@ function viewModel() {
             subsections: [{
                     header: [
                         "Virginia Commonwealth University",
+                        "",
                         "Aug 2014 - May 2018"
                     ],
-                    bullets: [
                       "B.S Computer Science"
-                    ]
                 }
             ]
         },
@@ -118,6 +117,7 @@ function viewModel() {
                     },
                     header: [
                         "StackInTheFlow",
+                        "",
                         "Sep 2016 - May 2017"
                     ],
                     bullets: [
@@ -135,6 +135,7 @@ function viewModel() {
                     },
                     header: [
                         "Penguin",
+                        "",
                         "Sep 2016 - Dec 2016"
                     ],
                     bullets: [
@@ -192,6 +193,7 @@ function viewModel() {
             subsections: [{
                     header: [
                         "RamHacks Organizer",
+                        "",
                         "Jan 2016 - Dec 2017"
                     ],
                     bullets: [
@@ -206,6 +208,7 @@ function viewModel() {
                     header: [
                         "Cyber Security Club, VCU (Co-Founder)",
                         // "(Co-Founder)",
+                        "",
                         "Aug 2015 - Dec 2016"
                     ],
                     bullets: [
