@@ -235,7 +235,7 @@ function viewModel() {
                         "Languages"
                     ],
                     bullets: [
-                        "Java, Python, JavaScript"
+                        "Java, Python, JavaScript, Perl"
                     ]
                 },
                 {
@@ -243,7 +243,7 @@ function viewModel() {
                     "Software"
                   ],
                   bullets: [
-                    "Atlassian/API, Git, ESRI, ArcPy, BeautifulSoup, Selenium, Chromedriver, REST, Hippo CMS, Django, LaTeX, Gephi"
+                    "Atlassian Plugin Development, Atlassian API, Git, GitHub, Bitbucket, REST, BeautifulSoup, Selenium, Chromedriver, Hippo CMS, Django, LaTeX, Gephi, ESRI, ArcPy, Microsoft Office"
                   ]
                 }
               ]
