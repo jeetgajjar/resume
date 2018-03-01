@@ -204,7 +204,8 @@ function viewModel() {
                 },
                 {
                     header: [
-                        "Cyber Security Club at VCU (Co-Founder)",
+                        "Cyber Security Club at VCU",
+                        "(Co-Founder)",
                         "Aug 2015 - Dec 2016"
                     ],
                     bullets: [
