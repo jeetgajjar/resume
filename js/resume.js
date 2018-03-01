@@ -103,7 +103,9 @@ function viewModel() {
                         "",
                         "Aug 2014 - May 2018"
                     ],
-                      "B.S Computer Science",
+                    bullets: [
+                      "~B.S Computer Science",
+                    ]
                 }
             ]
         },
