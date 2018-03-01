@@ -98,26 +98,10 @@ function viewModel() {
             subsections: [{
                     header: [
                       "",
-                        "Virginia Commonwealth University(B.S Computer Science)",
+                        "Virginia Commonwealth University (B.S Computer Science)",
                         "Aug 2014 - May 2018"
                     ]
-                    // ,
-                    // bullets: [
-                        "Senior, Bachelors of Science in Computer Science"
-                        // "Member of Computer Science Student Advisory Board", [
-                        //     "Acted as intermediary between faculty and students",
-                        //     "Active in selecting future faculty members",
-                        //     "Assist with CS events, such as open house"
-                        // ],
-                    // ]
                 }
-                // {
-                //     header: [
-                //         "Yorktown, VA",
-                //         "York High school",
-                //         "2010 - 2014"
-                //     ]
-                // }
             ]
         },
         {
