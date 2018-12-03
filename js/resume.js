@@ -25,6 +25,7 @@ function viewModel() {
                             "Create Full stack JHipster application",
                             "Tools: Spring, Maven, Jenkins, Mongo, AWS, Splunk"
                            ],
+                        "Client: Horizon Blue Cross Blue Shield of New Jersey", 
                            [
                             "Project: Hadoop Cloud Platform Sept 2018 - Oct 2018",
                             "Assisted in migration from on-premises to open source cloud platform",
