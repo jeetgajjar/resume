@@ -4,13 +4,36 @@ function viewModel() {
     this.fullName = this.firstName + " " + this.lastName;
 
     this.phone = "";
-    this.email = "gajjarjm@vcu.edu";
+    this.email = "j211668@gmail.com";
     this.github = "github.com/kakorrhaphio";
     this.website = "";
 
     this.sections = [{
             header: ["Employment"],
             subsections: [
+                {
+                    header: [
+                      "",//first one is for location
+                        "Ippon Technologies (Software Engineer Consultant)",
+                        "Aug 2018 - Present"
+                    ],
+                    bullets: [
+                        "Completed Jhipster Masterclass & Workshops",
+                        "Client: Horizon Blue Cross Blue Shield of New Jersey", 
+                        [
+                            "Project: HPRMS Oct 2018 - Present",
+                            "Create Full stack JHipster application",
+                            "Tools: Spring, Maven, Jenkins, Mongo, AWS, Splunk"
+                           ],
+                           [
+                            "Project: Hadoop Cloud Platform Sept 2018 - Oct 2018",
+                            "Assisted in migration from on-premises to open source cloud platform",
+                            "Created automation scripts for jenkins’ consumption",
+                            "Tools: Ansible, Ambari, Apache, Jenkins"
+                           ],
+
+                    ]
+                },
               {
                   header: [
                     "",//first one is for location
@@ -237,7 +260,15 @@ function viewModel() {
                         "Languages"
                     ],
                     bullets: [
-                        "Java, Python, JavaScript, Perl"
+                        "Java, Python, JavaScript, JSON, XML, Perl"
+                    ]
+                },
+                {
+                    header: [
+                        "Frameworks"
+                    ],
+                    bullets: [
+                        "Spring, Angular"
                     ]
                 },
                 {
