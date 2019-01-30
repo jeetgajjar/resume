@@ -1,5 +1,5 @@
 # Resume
-This Resume has been cloned from [Quark W.](https://github.com/quarkw/resume/).
+This Resume has been cloned from [Quark W](https://github.com/quarkw/resume/).
 
 You can see the result [here](http://kakorrhaphio.github.io/resume/).
 
@@ -51,7 +51,7 @@ Some notes:
 If you want to hide a subsection for print, change `noPrint` to true.
 
 ### Decorators
-Decorators can be applied to subsections to link out to webpages, and provide some contextual info with an icon. Any [http://fontawesome.io/icons/](Font Awesome) icon should work.
+Decorators can be applied to subsections to link out to webpages, and provide some contextual info with an icon. Any [Font Awesome](http://fontawesome.io/icons/) icon should work.
 ```js
 decorators: {
   icon: "github",
