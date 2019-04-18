@@ -19,10 +19,23 @@ function viewModel() {
                     ],
                     bullets: [
                         "Completed Jhipster Masterclass & Workshops",
+                        "Client: Ippon - Frosty Health Systems", 
+                        [
+                            "Project: Frosty  March 2019 - May 2019",
+                            "Create Full Stack Healthcare CRM application",
+                            "Set up end-to-end Dev Ops pipeline",
+                            "Tools: Spring, Gitlab, RDS Mysql, Snowflake, AWS, React"
+                           ],
+                        "Client: Fraym", 
+                        [
+                            "Project: JIRA Admin Training Feb 2019",
+                            "Consult client on full utilization around business processes",
+                            "Tools: JIRA"
+                           ],
                         "Client: Horizon Blue Cross Blue Shield of New Jersey", 
                         [
-                            "Project: HPRMS Oct 2018 - Present",
-                            "Create Full stack JHipster application",
+                            "Project: HPRMS Oct 2018 - Dec 2018",
+                            "Create Full Stack JHipster application",
                             "Tools: Spring, Maven, Jenkins, Mongo, AWS, Splunk"
                            ],
                         "Client: Horizon Blue Cross Blue Shield of New Jersey", 
