@@ -43,7 +43,7 @@ function viewModel() {
                         "Client: Horizon Blue Cross Blue Shield of New Jersey", 
                         [
                             "Project: HPRMS Oct 2018 - Dec 2018",
-                            "Create Full stack JHipster application",
+                            "Create Full Stack JHipster application",
                             "Tools: Spring, Maven, Jenkins, Mongo, AWS, Splunk"
                            ],
                         "Client: Horizon Blue Cross Blue Shield of New Jersey", 
