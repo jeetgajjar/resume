@@ -4,7 +4,7 @@ function viewModel() {
     this.fullName = this.firstName + " " + this.lastName;
 
     this.phone = "";
-    this.email = "j211668@gmail.com";
+    this.email = "gajjar.jeet@gmail.com";
     this.github = "github.com/kakorrhaphio";
     this.website = "";
 
@@ -18,10 +18,31 @@ function viewModel() {
                         "Aug 2018 - Present"
                     ],
                     bullets: [
-                        "Completed Jhipster Masterclass & Workshops",
+                        "Client: Capital One", 
+                        [
+                            "Project: Test Data Management Oct 2018 - Present",
+                            "Create microservice to serve up test data to other teams",
+                            "Automate smoke tests interfacing with the microservice",
+                            "Tools: Spring, AWS, Cucumber, Node, Jenkins"
+                           ],
+                           "Client: Ippon (Internal Project)", 
+                        [
+                            "Project: Healthcare BI CRM POC Mar 2019 - May 2019",
+                            "Created Full Stack Healthcare CRM application with JHipster",
+                            "DevOps Engineer: setup end-to-end DevOps pipeline",
+                            "Backend Engineer",
+                            "Tools:  Spring, Gitlab, RDS Mysql, Snowflake, AWS, React"
+                           ],
+                           "Client: Fraym", 
+                        [
+                            "Project: JIRA Training Feb 2019",
+                            "Consulted client on full utilization around business processes",
+                            "Created hands-on training labs for thorough understanding of tool",
+                            "Tools: JIRA Cloud"
+                           ],
                         "Client: Horizon Blue Cross Blue Shield of New Jersey", 
                         [
-                            "Project: HPRMS Oct 2018 - Present",
+                            "Project: HPRMS Oct 2018 - Dec 2018",
                             "Create Full stack JHipster application",
                             "Tools: Spring, Maven, Jenkins, Mongo, AWS, Splunk"
                            ],
@@ -32,7 +53,7 @@ function viewModel() {
                             "Created automation scripts for jenkins’ consumption",
                             "Tools: Ansible, Ambari, Apache, Jenkins"
                            ],
-
+                           "Completed Jhipster Masterclass & Workshops"
                     ]
                 },
               {
@@ -42,10 +63,11 @@ function viewModel() {
                       "Aug 2017 - Present"
                   ],
                   bullets: [
-                      "Regularly attend student computer programming competitions as official representative of national organizing body, Major League Hacking (MLH)",
-                          "Act as primary primary point of contact for university, student & faculty volunteers, and event attendees while on-site",
-                          "Regular public speaking experience in front of 500+ people", [
-                           "Presentations involve communicating technical topics to audience of varying skill levels"
+                        "Create technical content for Major League Hacking's  (MLH) blog",
+                        "Regularly attend student computer programming competitions as official representative of national organizing body, Major League Hacking",
+                        "Act as primary primary point of contact for university, student & faculty volunteers, and event attendees while on-site",
+                        "Regular public speaking experience in front of 500+ people", [
+                        "Presentations involve communicating technical topics to audience of varying skill levels"
                          ],
                           "Teach developers how to solve a wide variety of programming challenges and actively help them debug problems across a variety of languages & platforms"
                   ]
@@ -217,6 +239,11 @@ function viewModel() {
             noPrint: true,
             header: ["Leadership"],
             subsections: [{
+                    header: [
+                        "Richmond Java User Group Co-Organizer",
+                        "",
+                        "Oct 2018 - Present"
+                    ],
                     header: [
                         "RamHacks Organizer",
                         "",
