@@ -20,7 +20,12 @@ function viewModel() {
                     bullets: [
                         "Client: Capital One", 
                         [
-                            "Project: Test Data Management Oct 2018 - Present",
+                            "Project: Case Management Dec 2019 - Present",
+                            "Create/Maintain microservices to replace legacy system for case management",
+                            "Modernize PDF letter processor to save Capital One $4m/month",
+                            "Tools: Spring, AWS, Jenkins, Postgres, PDFBox",
+                            
+                            "Project: Test Data Management Oct 2019 - Dec 2019",
                             "Create microservice to serve up test data to other teams",
                             "Automate smoke tests interfacing with the microservice",
                             "Tools: Spring, AWS, Cucumber, Node, Jenkins"
