@@ -68,6 +68,7 @@ function viewModel() {
                       "Aug 2017 - Present"
                   ],
                   bullets: [
+                        "Interview Candidates for the MLH Fellowship program during the COVID crisis to create a global internship program",
                         "Create technical content for Major League Hacking's  (MLH) blog",
                         "Regularly attend student computer programming competitions as official representative of national organizing body, Major League Hacking",
                         "Act as primary primary point of contact for university, student & faculty volunteers, and event attendees while on-site",
