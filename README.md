@@ -1,7 +1,7 @@
 # Resume
 This Resume has been cloned from [Quark W](https://github.com/quarkw/resume/).
 
-You can see the result [here](http://kakorrhaphio.github.io/resume/).
+You can see the result [here](http://jeetgajjar.github.io/resume/).
 
 This resume is based on this [wonderful advice from LifeClever](http://www.lifeclever.com/give-your-resume-a-face-lift/).
 
