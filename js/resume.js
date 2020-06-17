@@ -5,7 +5,7 @@ function viewModel() {
 
     this.phone = "";
     this.email = "gajjar.jeet@gmail.com";
-    this.github = "github.com/kakorrhaphio";
+    this.github = "github.com/jeetgajjar";
     this.website = "";
 
     this.sections = [{
@@ -185,7 +185,7 @@ function viewModel() {
                 {
                     decorators: {
                         icon: "github",
-                        url: "https://github.com/kakorrhaphio/SocialNetworksPenguins"
+                        url: "https://github.com/jeetgajjar/SocialNetworksPenguins"
                     },
                     header: [
                         "Penguin",
@@ -209,7 +209,7 @@ function viewModel() {
                 //     noPrint: true,
                 //     decorators: {
                 //         icon: "github",
-                //         url: "https://github.com/kakorrhaphio/khe16-Penguin-harassment"
+                //         url: "https://github.com/jeetgajjar/khe16-Penguin-harassment"
                 //     },
                 //     header: [
                 //         "Hack HarRESTment",
@@ -224,7 +224,7 @@ function viewModel() {
                 // {
                 //     decorators: {
                 //         icon: "github",
-                //         url: "https://github.com/kakorrhaphio/OperatingSystem"
+                //         url: "https://github.com/jeetgajjar/OperatingSystem"
                 //     },
                 //     header: [
                 //         "Operating System Simulator",
