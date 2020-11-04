@@ -299,7 +299,7 @@ function viewModel() {
 						"Languages"
 					],
 					bullets: [
-						"Java, Phyton, Python, SQL, JavaScript, JSON, XML, Perl"
+						"Java, Python, SQL, JavaScript, JSON, XML, Perl"
 					]
 				},
 				{
