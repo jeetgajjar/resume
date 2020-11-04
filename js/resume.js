@@ -20,7 +20,13 @@ function viewModel() {
                     bullets: [
                         "Client: Capital One", 
                         [
-                            "Project: Case Management Dec 2019 - Present",
+                          "Project: Case Management (Tech Enabler) Sept 2020 - Present",
+                          "Deliver Visa Resolve Online (VROL) Fraud Reporting use-case ",
+                          "Update and Maintain MasterCard business intent",
+                          "Tools: Spring, AWS S3, Lambda, Jenkins, Postgres",
+
+
+                          "Project: Case Management Dec 2019 - Sept 2020",
                             "Create/Maintain microservices to replace legacy system for case management",
                             "Modernize PDF letter processor to save Capital One $4m/month",
                             "Tools: Spring, AWS, Jenkins, Postgres, PDFBox",
@@ -294,7 +300,7 @@ function viewModel() {
                         "Languages"
                     ],
                     bullets: [
-                        "Java, Python, JavaScript, JSON, XML, Perl"
+                        "Java, Phyton, Python, SQL, JavaScript, JSON, XML, Perl"
                     ]
                 },
                 {
