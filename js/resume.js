@@ -182,9 +182,6 @@ function viewModel() {
 					bullets: [
 						"An IntelliJ Plugin that uses NLP and StackOverflow to provide coding reccomendations",
 						"First place, Excellence in Design, VCU Senior Capstone Design Expo 2017",
-						// [
-						//   "Mutli-faceted search capabilities with productivity in mind" //TODO: Review commits and see how I contributed.
-						// ],
 					]
 				},
 				{
@@ -247,7 +244,45 @@ function viewModel() {
 			]
 		},
 		{
-			noPrint: true,
+			header: ["Skills"],
+			subsections: [
+				{
+					header: [
+						"Languages"
+					],
+					bullets: [
+						"Java, Python, SQL, JavaScript, JSON, XML, Perl"
+					]
+				},
+				{
+					header: [
+						"Cloud"
+					],
+					bullets: [
+						"AWS: EC2, ECS, S3, Data Pipeline, RDS, ECR",
+						"GCP: Multi-cluster Ingress with Kubernetes (GKE)",
+						"Azure: Cognitive Services"
+					]
+				},
+				{
+					header: [
+						"Frameworks"
+					],
+					bullets: [
+						"Spring, Angular"
+					]
+				},
+				{
+					header: [
+						"Software"
+					],
+					bullets: [
+						"Atlassian Plugin Development, Atlassian API, Git, GitHub, Bitbucket, REST, BeautifulSoup, Selenium, Chromedriver, Hippo CMS, Django, LaTeX, Gephi, ESRI, ArcPy, Microsoft Office"
+					]
+				}
+			]
+		},
+		{
 			header: ["Leadership"],
 			subsections: [{
 				header: [
@@ -255,6 +290,12 @@ function viewModel() {
 					"",
 					"Oct 2018 - Present"
 				],
+				bullets: [
+					"Host monthly talks for Java and Tech enthusiasts",
+					"Collate speakers nationally and locally",
+				]
+			},
+				{
 				header: [
 					"RamHacks Organizer",
 					"",
@@ -284,43 +325,6 @@ function viewModel() {
 					]
 				},
 			]
-		},
-		{
-			header: ["Skills"],
-			// bullets: [
-			//   "Languages:",
-			//   list: ["Java", "Python", "JavaScript" ]
-			//   "Other:"
-			//   list: ["Maven", "Atlassian/API", "Git", "BeautifulSoup", "Selenium", "Gephi"]
-			// ],
-			subsections: [
-				{
-					header: [
-						"Languages"
-					],
-					bullets: [
-						"Java, Python, SQL, JavaScript, JSON, XML, Perl"
-					]
-				},
-				{
-					header: [
-						"Frameworks"
-					],
-					bullets: [
-						"Spring, Angular"
-					]
-				},
-				{
-					header: [
-						"Software"
-					],
-					bullets: [
-						"Atlassian Plugin Development, Atlassian API, Git, GitHub, Bitbucket, REST, BeautifulSoup, Selenium, Chromedriver, Hippo CMS, Django, LaTeX, Gephi, ESRI, ArcPy, Microsoft Office"
-					]
-				}
-			]
-
-
 		}
 	]
 };
