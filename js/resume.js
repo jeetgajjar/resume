@@ -20,17 +20,34 @@ function viewModel() {
 				bullets: [
 					"Client: Capital One",
 					[
-						"Project: Case Management (Tech Enabler) Sept 2020 - Present",
+						"Project: Case Management (Off-load Legacy Systems) Jan 2021 - Present",
+						"Role: Tech Lead, Team: CodeFellas",
+						"ID Verification with Document Review for Fraud decisioning ",
+						"Stress Test modernized application to get off old Data Store System",
+						"Coordinate among interdepartmental teams and report to Directors with testing results",
+						"Tools: Vue, Spring, Hercules, Jenkins, Postgres",
+					],
+					"Client: Capital One",
+					[
+						"Project: Case Management (Tech Enabler) Sept 2020 - Jan 2021",
+						"Role: Software Engineer, Team: MiddleOut",
+						"Takeover & Maintain Case Management UI - Fraud & Disputes",
 						"Deliver Visa Resolve Online (VROL) Fraud Reporting use-case ",
 						"Update and Maintain MasterCard business intent",
-						"Tools: Spring, AWS S3, Lambda, Jenkins, Postgres",
-
+						"Tools: Vue, Spring, AWS S3, Lambda, Jenkins, Postgres",
+					],
+					"Client: Capital One",
+					[
 						"Project: Case Management Dec 2019 - Sept 2020",
+						"Role: Software Engineer, Team: LeTigre",
 						"Create/Maintain microservices to replace legacy system for case management",
 						"Modernize PDF letter processor to save Capital One $4m/month",
 						"Tools: Spring, AWS, Jenkins, Postgres, PDFBox",
-
+					],
+					"Client: Capital One",
+					[
 						"Project: Test Data Management Oct 2019 - Dec 2019",
+						"Role: Software Engineer, Team: CaseCoders",
 						"Create microservice to serve up test data to other teams",
 						"Automate smoke tests interfacing with the microservice",
 						"Tools: Spring, AWS, Cucumber, Node, Jenkins"
@@ -38,14 +55,15 @@ function viewModel() {
 					"Client: Ippon (Internal Project)",
 					[
 						"Project: Healthcare BI CRM POC Mar 2019 - May 2019",
+						"Role: Backend Engineer",
 						"Created Full Stack Healthcare CRM application with JHipster",
 						"DevOps Engineer: setup end-to-end DevOps pipeline",
-						"Backend Engineer",
 						"Tools:  Spring, Gitlab, RDS Mysql, Snowflake, AWS, React"
 					],
 					"Client: Fraym",
 					[
 						"Project: JIRA Training Feb 2019",
+						"Role: Technical Consultant",
 						"Consulted client on full utilization around business processes",
 						"Created hands-on training labs for thorough understanding of tool",
 						"Tools: JIRA Cloud"
@@ -53,12 +71,14 @@ function viewModel() {
 					"Client: Horizon Blue Cross Blue Shield of New Jersey",
 					[
 						"Project: HPRMS Oct 2018 - Dec 2018",
+						"Role: Software Engineer",
 						"Create Full Stack JHipster application",
 						"Tools: Spring, Maven, Jenkins, Mongo, AWS, Splunk"
 					],
 					"Client: Horizon Blue Cross Blue Shield of New Jersey",
 					[
 						"Project: Hadoop Cloud Platform Sept 2018 - Oct 2018",
+						"Role: Backend Engineer",
 						"Assisted in migration from on-premises to open source cloud platform",
 						"Created automation scripts for jenkins’ consumption",
 						"Tools: Ansible, Ambari, Apache, Jenkins"
@@ -296,19 +316,19 @@ function viewModel() {
 				]
 			},
 				{
-				header: [
-					"RamHacks Organizer",
-					"",
-					"Jan 2016 - Dec 2017"
-				],
-				bullets: [
-					"Co-organized RamHacks 2 years with 500 total attendees",
-					"Lead Vendor Manager for all meals and snacks"
-					// "Vendor Management",
-					// "Sought out and trained talented underclassmen to maintain RamHacks",
-					// "Assisted in participants' technical questions",
-				]
-			},
+					header: [
+						"RamHacks Organizer",
+						"",
+						"Jan 2016 - Dec 2017"
+					],
+					bullets: [
+						"Co-organized RamHacks 2 years with 500 total attendees",
+						"Lead Vendor Manager for all meals and snacks"
+						// "Vendor Management",
+						// "Sought out and trained talented underclassmen to maintain RamHacks",
+						// "Assisted in participants' technical questions",
+					]
+				},
 				{
 					header: [
 						"Cyber Security Club, VCU (Co-Founder)",
