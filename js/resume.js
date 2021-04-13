@@ -70,18 +70,11 @@ function viewModel() {
 					],
 					"Client: Horizon Blue Cross Blue Shield of New Jersey",
 					[
-						"Project: HPRMS Oct 2018 - Dec 2018",
+						"Project: HPRMS & Hadoop Sept 2018 - Dec 2018",
 						"Role: Software Engineer",
 						"Create Full Stack JHipster application",
-						"Tools: Spring, Maven, Jenkins, Mongo, AWS, Splunk"
-					],
-					"Client: Horizon Blue Cross Blue Shield of New Jersey",
-					[
-						"Project: Hadoop Cloud Platform Sept 2018 - Oct 2018",
-						"Role: Backend Engineer",
-						"Assisted in migration from on-premises to open source cloud platform",
-						"Created automation scripts for jenkins’ consumption",
-						"Tools: Ansible, Ambari, Apache, Jenkins"
+						"Migration from on-prem to Open Source cloud platform with custom jenkins scripts",
+						"Tools: Spring, Maven, Jenkins, Mongo, AWS, Splunk, Ansible, Ambari, Apache, Jenkins"
 					],
 					"Completed Jhipster Masterclass & Workshops"
 				]
