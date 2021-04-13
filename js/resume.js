@@ -14,7 +14,7 @@ function viewModel() {
 			{
 				header: [
 					"",//first one is for location
-					"Ippon Technologies (Software Engineer Consultant)",
+					"Ippon Technologies (Software Engineer)",
 					"Aug 2018 - Present"
 				],
 				bullets: [
@@ -22,7 +22,7 @@ function viewModel() {
 					[
 						"Project: Case Management (Off-load Legacy Systems) Jan 2021 - Present",
 						"Role: Tech Lead, Team: CodeFellas",
-						"ID Verification with Document Review for Fraud decisioning ",
+						"ID Verification with Document Review for Fraud decisioning",
 						"Stress Test modernized application to get off old Data Store System",
 						"Coordinate among interdepartmental teams and report to Directors with testing results",
 						"Tools: Vue, Spring, Hercules, Jenkins, Postgres",
@@ -289,7 +289,7 @@ function viewModel() {
 						"Frameworks"
 					],
 					bullets: [
-						"Spring, Angular"
+						"Spring, Angular, Vue"
 					]
 				},
 				{
@@ -306,7 +306,7 @@ function viewModel() {
 			header: ["Leadership"],
 			subsections: [{
 				header: [
-					"Richmond Java User Group Co-Organizer",
+					"Director, Richmond Java User Group",
 					"",
 					"Oct 2018 - Present"
 				],
@@ -315,35 +315,35 @@ function viewModel() {
 					"Collate speakers nationally and locally",
 				]
 			},
-				{
-					header: [
-						"RamHacks Organizer",
-						"",
-						"Jan 2016 - Dec 2017"
-					],
-					bullets: [
-						"Co-organized RamHacks 2 years with 500 total attendees",
-						"Lead Vendor Manager for all meals and snacks"
-						// "Vendor Management",
-						// "Sought out and trained talented underclassmen to maintain RamHacks",
-						// "Assisted in participants' technical questions",
-					]
-				},
-				{
-					header: [
-						"Cyber Security Club, VCU (Co-Founder)",
-						// "(Co-Founder)",
-						"",
-						"Aug 2015 - Dec 2016"
-					],
-					bullets: [
-						"Organized weekly tech-talks by companies and students",
-						// "Created partnership with General Electric's Cyber Security Department ", [
-						//     "Exposed Red/Blue team to students"
-						//   ],
-						"Aided in the development of the Cyber Security Lab sandbox environment"
-					]
-				},
+				// {
+				// 	header: [
+				// 		"RamHacks Organizer",
+				// 		"",
+				// 		"Jan 2016 - Dec 2017"
+				// 	],
+				// 	bullets: [
+				// 		"Co-organized RamHacks 2 years with 500 total attendees",
+				// 		"Lead Vendor Manager for all meals and snacks"
+				// 		// "Vendor Management",
+				// 		// "Sought out and trained talented underclassmen to maintain RamHacks",
+				// 		// "Assisted in participants' technical questions",
+				// 	]
+				// },
+				// {
+				// 	header: [
+				// 		"Cyber Security Club, VCU (Co-Founder)",
+				// 		// "(Co-Founder)",
+				// 		"",
+				// 		"Aug 2015 - Dec 2016"
+				// 	],
+				// 	bullets: [
+				// 		"Organized weekly tech-talks by companies and students",
+				// 		// "Created partnership with General Electric's Cyber Security Department ", [
+				// 		//     "Exposed Red/Blue team to students"
+				// 		//   ],
+				// 		"Aided in the development of the Cyber Security Lab sandbox environment"
+				// 	]
+				// },
 			]
 		}
 	]
