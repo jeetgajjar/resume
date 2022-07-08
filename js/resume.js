@@ -14,49 +14,33 @@ function viewModel() {
 			{
 				header: [
 					"",//first one is for location
+					"Drift (Software Engineer)",
+					"July 2021 - Present"
+				],
+				bullets: [
+					"Build, maintain, and own Java microservices for enterprise customers",
+					"Tools: Java, React"
+				]
+			},
+			{
+				header: [
+					"",//first one is for location
 					"Ippon Technologies (Software Engineer)",
-					"Aug 2018 - Present"
+					"Aug 2018 - July 2021"
 				],
 				bullets: [
 					"Client: Capital One",
 					[
-						"Project: Case Management (Off-load Legacy Systems) Jan 2021 - Present",
-						"Role: Tech Lead, Team: CodeFellas",
-						"ID Verification with Document Review for Fraud decisioning",
-						"Stress Test modernized application to get off old Data Store System",
-						"Coordinate among interdepartmental teams and report to Directors with testing results",
-						"Tools: Vue, Spring, Hercules, Jenkins, Postgres",
-					],
-					"Client: Capital One",
-					[
-						"Project: Case Management (Tech Enabler) Sept 2020 - Jan 2021",
-						"Role: Software Engineer, Team: MiddleOut",
-						"Takeover & Maintain Case Management UI - Fraud & Disputes",
-						"Deliver Visa Resolve Online (VROL) Fraud Reporting use-case ",
-						"Update and Maintain MasterCard business intent",
-						"Tools: Vue, Spring, AWS S3, Lambda, Jenkins, Postgres",
-					],
-					"Client: Capital One",
-					[
-						"Project: Case Management Dec 2019 - Sept 2020",
-						"Role: Software Engineer, Team: LeTigre",
-						"Create/Maintain microservices to replace legacy system for case management",
-						"Modernize PDF letter processor to save Capital One $4m/month",
-						"Tools: Spring, AWS, Jenkins, Postgres, PDFBox",
-					],
-					"Client: Capital One",
-					[
-						"Project: Test Data Management Oct 2019 - Dec 2019",
-						"Role: Software Engineer, Team: CaseCoders",
-						"Create microservice to serve up test data to other teams",
-						"Automate smoke tests interfacing with the microservice",
-						"Tools: Spring, AWS, Cucumber, Node, Jenkins"
+						"Projects: Built new Capital One internal Agent systems using Java Spring Boot May 2019 - Jun 2021",
+						"Roles adopted: Software Engineer, Tech Lead",
+						"Created internal automation tools for managing test data (CC info)",
+						"Tools: Java Spring Boot, JHipster, S3, Postgres, Vue"
 					],
 					"Client: Ippon (Internal Project)",
 					[
 						"Project: Healthcare BI CRM POC Mar 2019 - May 2019",
 						"Role: Backend Engineer",
-						"Created Full Stack Healthcare CRM application with JHipster",
+						"Created Full Stack HIPPA compliant Healthcare CRM application with JHipster",
 						"DevOps Engineer: setup end-to-end DevOps pipeline",
 						"Tools:  Spring, Gitlab, RDS Mysql, Snowflake, AWS, React"
 					],
@@ -64,7 +48,6 @@ function viewModel() {
 					[
 						"Project: JIRA Training Feb 2019",
 						"Role: Technical Consultant",
-						"Consulted client on full utilization around business processes",
 						"Created hands-on training labs for thorough understanding of tool",
 						"Tools: JIRA Cloud"
 					],
@@ -75,8 +58,7 @@ function viewModel() {
 						"Create Full Stack JHipster application",
 						"Migration from on-prem to Open Source cloud platform with custom jenkins scripts",
 						"Tools: Spring, Maven, Jenkins, Mongo, AWS, Splunk, Ansible, Ambari, Apache, Jenkins"
-					],
-					"Completed Jhipster Masterclass & Workshops"
+					]
 				]
 			},
 			{
