@@ -15,10 +15,12 @@ function viewModel() {
 				header: [
 					"",//first one is for location
 					"Drift (Software Engineer)",
-					"July 2021 - Present"
+					"July 2021 - July 2022"
 				],
 				bullets: [
 					"Build, maintain, and own Java microservices for enterprise customers",
+					"Create notion of Brand Management for enterprise customers",
+					"Migrate APIs off legacy systems for improved latency",
 					"Tools: Java, React"
 				]
 			},
@@ -34,6 +36,9 @@ function viewModel() {
 						"Projects: Built new Capital One internal Agent systems using Java Spring Boot May 2019 - Jun 2021",
 						"Roles adopted: Software Engineer, Tech Lead",
 						"Created internal automation tools for managing test data (CC info)",
+						"ID Verification with Document Review for Fraud decisioning",
+						"Deliver Visa Resolve Online (VROL) Fraud Reporting use-case",
+						"Automate smoke tests interfacing with the microservice",
 						"Tools: Java Spring Boot, JHipster, S3, Postgres, Vue"
 					],
 					"Client: Ippon (Internal Project)",
