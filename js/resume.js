@@ -45,7 +45,7 @@ function viewModel() {
 					[
 						"Project: Healthcare BI CRM POC Mar 2019 - May 2019",
 						"Role: Backend Engineer",
-						"Created Full Stack HIPPA compliant Healthcare CRM application with JHipster",
+						"Created Full Stack HIPAA compliant Healthcare CRM application with JHipster",
 						"DevOps Engineer: setup end-to-end DevOps pipeline",
 						"Tools:  Spring, Gitlab, RDS Mysql, Snowflake, AWS, React"
 					],
