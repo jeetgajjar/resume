@@ -11,6 +11,29 @@ function viewModel() {
 	this.sections = [{
 		header: ["Employment"],
 		subsections: [
+		    {
+                header: [
+                    "",//first one is for location
+                    "Kohls (Sr. Software Engineer)",
+                    "Oct 2022 - Present"
+                ],
+                bullets: [
+                    "Mercury Platform, Common Services",
+                    [
+                    "Owning a highly available Kohl's critical Platinum application processing 50M+ requests/day",
+                    "Transformed Spring GraphQL Java App to Kotlin reactive/coroutine application",
+                    "Architecting Stable application design for consumers/suppliers of data",
+
+                    "Tools: GraphQL, CI/CD, Openshift, MongoDB, SQL, Redis, Google Cloud, Dynatrace"
+                    ],
+                    "Merchandise Ordering, Tech Lead",
+                    [
+                    "Owned and Managed a suite of Modern & Legacy Inventory Management & Ordering Microservices",
+                    "Managing Stakeholders & Business users expectations to deliver rich features"
+                    "Tools: Javascript, Node, SQL"
+                    ]
+                ]
+            },
 			{
 				header: [
 					"",//first one is for location
