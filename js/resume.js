@@ -29,7 +29,7 @@ function viewModel() {
                     "Merchandise Ordering, Tech Lead",
                     [
                     "Owned and Managed a suite of Modern & Legacy Inventory Management & Ordering Microservices",
-                    "Managing Stakeholders & Business users expectations to deliver rich features"
+                    "Managing Stakeholders & Business users expectations to deliver rich features",
                     "Tools: Javascript, Node, SQL"
                     ]
                 ]
