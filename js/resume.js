@@ -22,9 +22,9 @@ function viewModel() {
                     [
                     "Owning a highly available Kohl's critical Platinum application processing 50M+ requests/day",
                     "Transformed Spring GraphQL Java App to Kotlin reactive/coroutine application",
-                    "Architecting Stable application design for consumers/suppliers of data",
+                    "Architecting Stable application design for consumers/suppliers of data internally and externally",
 
-                    "Tools: GraphQL, CI/CD, Openshift, MongoDB, SQL, Redis, Google Cloud, Dynatrace"
+                    "Tools: GraphQL, Gitlab CI/CD, Openshift, MongoDB, SQL, Redis, Google Cloud, Dynatrace"
                     ],
                     "Merchandise Ordering, Tech Lead",
                     [
@@ -93,7 +93,7 @@ function viewModel() {
 				header: [
 					"",//first one is for location
 					"Major League Hacking (Hackathon Evangelist)",
-					"Aug 2017 - Present"
+					"Aug 2017 - June 2022"
 				],
 				bullets: [
 					"Interview Candidates for the MLH Fellowship program during the COVID crisis to create a global internship program",
