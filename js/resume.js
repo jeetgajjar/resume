@@ -20,7 +20,6 @@ function viewModel() {
                 bullets: [
                     "Mercury Platform, Common Services",
                     [
-<<<<<<< HEAD
                     "Own a highly available platform processing 50M+ requests/day enabling real-time and batch data consumers",
                     "Architected and optimized data supplier services powering downstream data and analytics workflows",
                     "Designed event-driven architecture using Kafka enabling scalable real-time data ingestion and streaming pipelines",
@@ -28,13 +27,6 @@ function viewModel() {
                     "Built reusable libraries and frameworks to streamline service development across teams",
                     "Led adoption of gRPC, GitLab CI/CD, and containerized deployments on OpenShift/GCP",
                     "Tools: GraphQL, Kotlin, OpenShift, GCP, MongoDB, Kafka, SQL, Redis, Dynatrace"
-=======
-                    "Owning a highly available Kohl's critical Platinum application processing 50M+ requests/day",
-                    "Transformed Spring GraphQL Java App to Kotlin reactive/coroutine application",
-                    "Architecting Stable application design for consumers/suppliers of data",
-
-                    "Tools: GraphQL, CI/CD, Openshift, MongoDB, SQL, Redis, Google Cloud, Dynatrace"
->>>>>>> parent of 2d42774 (small update)
                     ],
                     "Merchandise Ordering, Tech Lead",
                     [
@@ -63,63 +55,10 @@ function viewModel() {
 					"Aug 2018 - July 2021"
 				],
 				bullets: [
-<<<<<<< HEAD
 					"Built and scaled backend systems using Spring Boot across multiple enterprise clients",
 					"Developed automation tools and data workflows supporting fraud detection and internal platforms",
 					"Worked with cloud (AWS), distributed systems, and data storage technologies",
 					"Tools: Java, Spring Boot, AWS, Postgres"
-=======
-					"Client: Capital One",
-					[
-						"Projects: Built new Capital One internal Agent systems using Java Spring Boot May 2019 - Jun 2021",
-						"Roles adopted: Software Engineer, Tech Lead",
-						"Created internal automation tools for managing test data (CC info)",
-						"ID Verification with Document Review for Fraud decisioning",
-						"Deliver Visa Resolve Online (VROL) Fraud Reporting use-case",
-						"Automate smoke tests interfacing with the microservice",
-						"Tools: Java Spring Boot, JHipster, S3, Postgres, Vue"
-					],
-					"Client: Ippon (Internal Project)",
-					[
-						"Project: Healthcare BI CRM POC Mar 2019 - May 2019",
-						"Role: Backend Engineer",
-						"Created Full Stack HIPAA compliant Healthcare CRM application with JHipster",
-						"DevOps Engineer: setup end-to-end DevOps pipeline",
-						"Tools:  Spring, Gitlab, RDS Mysql, Snowflake, AWS, React"
-					],
-					"Client: Fraym",
-					[
-						"Project: JIRA Training Feb 2019",
-						"Role: Technical Consultant",
-						"Created hands-on training labs for thorough understanding of tool",
-						"Tools: JIRA Cloud"
-					],
-					"Client: Horizon Blue Cross Blue Shield of New Jersey",
-					[
-						"Project: HPRMS & Hadoop Sept 2018 - Dec 2018",
-						"Role: Software Engineer",
-						"Create Full Stack JHipster application",
-						"Migration from on-prem to Open Source cloud platform with custom jenkins scripts",
-						"Tools: Spring, Maven, Jenkins, Mongo, AWS, Splunk, Ansible, Ambari, Apache, Jenkins"
-					]
-				]
-			},
-			{
-				header: [
-					"",//first one is for location
-					"Major League Hacking (Hackathon Evangelist)",
-					"Aug 2017 - Present"
-				],
-				bullets: [
-					"Interview Candidates for the MLH Fellowship program during the COVID crisis to create a global internship program",
-					"Create technical content for Major League Hacking's  (MLH) blog",
-					"Regularly attend student computer programming competitions as official representative of national organizing body, Major League Hacking",
-					"Act as primary primary point of contact for university, student & faculty volunteers, and event attendees while on-site",
-					"Regular public speaking experience in front of 500+ people", [
-						"Presentations involve communicating technical topics to audience of varying skill levels"
-					],
-					"Teach developers how to solve a wide variety of programming challenges and actively help them debug problems across a variety of languages & platforms"
->>>>>>> parent of 2d42774 (small update)
 				]
 			},
 			{
